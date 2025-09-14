@@ -33,9 +33,13 @@ Habilidades aplicadas: **herança, polimorfismo e composição de objetos**, sim
 ## 🗂 Estrutura do Projeto
 
 ProjetoEngProcesso/
+
 ├── app/ # Classe principal (Testes) 
+
 ├── model/ # Modelos de domínio (Operacao, PostoDeTrabalho, LinhaDeProducao) 
+
 ├── service/ # Serviços auxiliares (Cronoanalisador, PlanejadorMaoDeObra) 
+
 └── README.md
 
 
