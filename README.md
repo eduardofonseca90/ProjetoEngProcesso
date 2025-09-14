@@ -14,7 +14,7 @@ Projeto desenvolvido em **Java** aplicando **Programação Orientada a Objetos (
 - Identificação de gargalos
 - Planejamento de mão de obra baseada no volume de produção
 
-Este projeto demonstra habilidades em **herança, polimorfismo e composição de objetos**, simulando situações reais de engenharia de produção.
+Habilidades aplicadas: **herança, polimorfismo e composição de objetos**, simulando situações reais de engenharia de produção.
 
 ---
 
@@ -33,9 +33,9 @@ Este projeto demonstra habilidades em **herança, polimorfismo e composição de
 ## 🗂 Estrutura do Projeto
 
 ProjetoEngProcesso/
-├── app/ # Classe principal (Testes)
-├── model/ # Modelos de domínio (Operacao, PostoDeTrabalho, LinhaDeProducao)
-├── service/ # Serviços auxiliares (Cronoanalisador, PlanejadorMaoDeObra)
+├── app/ # Classe principal (Testes) 
+├── model/ # Modelos de domínio (Operacao, PostoDeTrabalho, LinhaDeProducao) 
+├── service/ # Serviços auxiliares (Cronoanalisador, PlanejadorMaoDeObra) 
 └── README.md
 
 
